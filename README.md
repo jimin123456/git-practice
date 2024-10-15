@@ -1,5 +1,5 @@
 
-"# My Git Practice Project" 
+"My Git Practice Project" 
 =======
 # git-practice
 My Git Practice Project
