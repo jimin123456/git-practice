@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "This is file 1" 
+=======
+
+>>>>>>> b443a8beecc08e344078464e0d55d00e7af5d6a9
